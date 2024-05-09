@@ -3,6 +3,7 @@
 source version
 source cross-targets
 source tools.sh
+source flags
 # SOURCE_DIR and OUTPUT_DIR must be full path
 export SOURCE_DIR="$(pwd)/.src-tarballs"
 export OUTPUT_DIR="$(pwd)/output"
